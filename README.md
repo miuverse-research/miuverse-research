@@ -1,7 +1,7 @@
 # Welcome to the Microbiome Integrated Analysis, United (MIU)!
 <b>Microbiome Integrated Analysis, United (MIU)</b> is a project to create integrated microbiome integrated analysis platform. Established on 25 May 2026, we dedicated to making microbiome bioinformatics, molecular biology, and data-driven life sciences accessible, practical, and beginner-friendly for all.
 
-This initiative is primarily managed by the Division of Biomics Research at [Generasi Biologi Indonesia Foundation](https://genbinesia.or.id/), with significant supports and collaborations from the [Tropical Onehealth and Ecohealth Institute](https://www.tropiinstitute.com/), and has contributors from all over Indonesia.
+This initiative is primarily managed by the Division of Biomics Research at [Generasi Biologi Indonesia Foundation](https://genbinesia.or.id/), with significant supports and collaborations from the [Tropical Onehealth and Ecohealth Institute](https://www.tropiinstitute.com/) and the [Society for Indonesian Bioinformatics and Biodiversity (MABBI)](https://mabbi.id/), and has contributors from all over Indonesia.
 
 ---
 
